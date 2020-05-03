@@ -6,8 +6,7 @@ var connMySQL = function(){
         user : 'root',
         password : '12345',
         database : 'portal_noticias'
-    });
-   
+    });   
 }      
 
 module.exports = function(){
